@@ -1,0 +1,166 @@
+header{
+  background-color: #f0fff0;
+}
+
+
+.navbar{
+  background-color: #f0fff0;
+}
+
+.nav-item{
+  color: #000000;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.btn{
+  background-color: #21b573;
+  color: #fff;
+  margin-left: 10px;
+}
+
+/* About */
+.aboutus{
+  padding-top: 20px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+.about{
+  margin: 30px;
+  text-align: center;
+}
+
+/* Banner */
+
+h5{
+  color: #fd511a;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+#banner{
+  margin-left: 15px;
+}
+
+span{
+  color: #21b573;
+}
+
+.btn-banner{
+  background-color: #21b573;
+  color: #fff;
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover{
+  color: #000000;
+}
+
+/* Card */
+
+#book{
+  margin: 5px;
+}
+#books-img{
+  border-radius: 20px;
+}
+.card-title{
+  text-align: center;
+  justify-content: center;
+}
+
+
+
+.card-img{
+  padding: 10px;
+}
+
+.cat{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#card-body{
+  border-radius: 10px;
+  border: none;
+  background-color: #e5f3eb;
+}
+
+#card-body:hover{
+  background-color: #fff;
+}
+
+.card-img-top{
+  padding: 10px;
+}
+
+/* Courses */
+
+#cour-img{
+  padding: 10px;
+}
+
+
+/* Testimonial */
+
+.testh1{
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.testimonial{
+  padding-bottom: 20px;
+}
+
+/* Contact */
+.contact{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+}
+
+.btn-contact{
+  background-color: #000000;
+  color: #fff;
+  font-weight: 500;
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover{
+  font-weight: 500;
+  color: #000000;
+}
+
+
+/* footer */
+footer{background-color: #000000;}
+
+#footer{
+  margin-bottom: 20px;
+}
+
+.footerf{
+  background-color: #000000;
+}
+
+ul.list-unstyled {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+ul.list-unstyled li a {
+    color: white;
+    text-decoration: none;
+    border-bottom: none; /* Remove the underline */
+}
+
+
